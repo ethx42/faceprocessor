@@ -1,0 +1,12 @@
+images/*
+images/archive/*
+images/head_shots/*
+images/processme/*
+images/facets/*
+images/facets/chin/*
+images/facets/eyes/*
+images/facets/forehead/*
+images/facets/mouth/*
+images/facets/neck/*
+images/facets/nose/*
+.DS_Store
