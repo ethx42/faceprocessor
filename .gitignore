@@ -1,6 +1,8 @@
 # .gitignore
 !**/.gitkeep
 images/archive/
+images/head_shots/
+images/processme/
 images/facets/
 images/facets/chin/
 images/facets/eyes/
