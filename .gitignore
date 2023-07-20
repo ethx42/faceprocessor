@@ -1,7 +1,6 @@
 # .gitignore
 !**/.gitkeep
 
-images/*
 images/archive/*
 images/head_shots/*
 images/processme/*
