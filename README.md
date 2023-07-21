@@ -25,6 +25,8 @@ The project is structured as follows:
 │       │   └── nose
 │       ├── head_shots
 │       └── process_me
+├── scripts
+│ └── cleanup.sh
 └── src
     ├── handlers
     │   └── image_handler.py
