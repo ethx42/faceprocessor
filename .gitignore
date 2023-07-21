@@ -1,13 +1,13 @@
 # .gitignore
 !**/.gitkeep
-images/archive/
-images/head_shots/
-images/processme/
-images/facets/
-images/facets/chin/
-images/facets/eyes/
-images/facets/forehead/
-images/facets/mouth/
-images/facets/neck/
-images/facets/nose/
+resources/images/archive/
+resources/images/head_shots/
+resources/images/process_me/
+resources/images/facets/
+resources/images/facets/chin/
+resources/images/facets/eyes/
+resources/images/facets/forehead/
+resources/images/facets/mouth/
+resources/images/facets/neck/
+resources/images/facets/nose/
 .DS_Store
