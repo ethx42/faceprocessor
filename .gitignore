@@ -11,3 +11,9 @@ resources/images/facets/mouth/
 resources/images/facets/neck/
 resources/images/facets/nose/
 .DS_Store
+.idea/faceprocessor.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml

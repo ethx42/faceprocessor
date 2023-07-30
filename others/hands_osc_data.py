@@ -10,10 +10,11 @@ hands = mp_hands.Hands()
 mp_drawing = mp.solutions.drawing_utils
 
 # Crea un cliente OSC para enviar mensajes a TouchDesigner
-osc_client = udp_client.SimpleUDPClient("localhost", 12345)
+osc_client = udp_client.SimpleUDPClient("localhost", 10000)
+osc_client.send_message("/test", 1.0)
 
 # Inicia la captura de video de la cámara web
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 while True:
     # Captura un frame de la cámara
